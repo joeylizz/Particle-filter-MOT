@@ -1,9 +1,3 @@
-%% Essential training for colour information
-%These codes are provided for academic/research purposes only. 
-% They are designed for readability and demonstration thus they are not optimized for speed.
-% Author: Zeyu Fu
-% PGR, Newcastle University, UK
-
 %==========================================================================
 clc;clear all;
 close all;
